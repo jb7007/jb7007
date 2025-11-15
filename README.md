@@ -1,7 +1,6 @@
 # Hey, I’m Jeremiah 👋
 
-🎓 **Sophomore Computer Science major + Psychology minor @ Michigan Tech (Class of 2028)**  
-📊 **3.7 Major GPA (3.5 Cumulative)**  
+🎓 **Second Year Computer Science major + Psychology minor @ Michigan Tech (Class of 2028)**  
 
 ---
 
@@ -15,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java · Python · C · JavaScript · C++ · HTML/CSS  
+**Languages:** Java · Python · C · JavaScript · C# · C++ · HTML/CSS  
 **Frameworks/Tools:** Flask · SQLAlchemy · Bootstrap · GSAP · Plotly.js  
 **Systems:** Linux (Ubuntu/WSL) · Git/GitHub · LaTeX · IntelliJ · VS Code  
 
@@ -24,7 +23,7 @@
 ## 📈 Current Goals
 - 🔍 Seeking **Summer 2026 Software Engineering internships** (SWE, Systems, or UI/UX)  
 - 🏗️ Expanding **SUBWOOFER** with advanced analytics and scalable backend improvements  
-- 📚 Deep-diving into Data Structures, Systems Programming, and HCI  
+- 📚 Deep-diving into Data Structures, Systems Programming, Computational Theory, and HCI  
 
 ---
 
